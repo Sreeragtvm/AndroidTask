@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HOME</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="video_tab_title">VIDEOS</string>
+    <string name="image_tab_title">IMAGES</string>
+    <string name="milestone_tab_title">MILESTONE</string>
+    <string name="song_description">To connect clients, customers and people through technology with unparalleled care</string>
+</resources>
